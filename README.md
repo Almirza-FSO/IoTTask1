@@ -10,3 +10,5 @@ HTML-roboticArm file allow user to set the motors movements using sliders from 0
 phpRoboticArm file insert the values of motors into the database.
 
 RoboticArmResult file retrieve the last inserted values of each motor and display the value of Run!!.
+
+roboticarm file is the database used for this project.
